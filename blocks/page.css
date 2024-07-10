@@ -1,0 +1,15 @@
+.page {
+  background-color: #2a2c2f;
+  color: white;
+  font-family: "inter", arial, sans-serif;
+  margin: auto;
+  max-width: 1280px;
+  min-width: 768px;
+}
+
+.page__logo {
+  width: 254px;
+  height: 70px;
+  margin: 34px 513px 90px;
+  padding: 0px 0px 0.8px 0px;
+}

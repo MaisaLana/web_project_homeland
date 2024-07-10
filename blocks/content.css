@@ -1,0 +1,27 @@
+.content {
+  max-width: 830px;
+  max-height: 482px;
+  margin: 92px 0 0 148px;
+}
+.content__title {
+  font-size: 54px;
+}
+.content__quote {
+  font-size: 24px;
+  margin: 40px 0 0;
+  max-width: 738px;
+}
+
+.quote {
+  margin: 0;
+}
+.quote__author {
+  text-align: right;
+  margin: 10px 0 0;
+}
+.content__text {
+  max-width: 722px;
+  margin: 32px 0 0;
+  font-size: 16px;
+  line-height: 26.08px;
+}
