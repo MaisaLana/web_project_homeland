@@ -2,10 +2,4 @@
 @import url("../blocks/header.css");
 @import url("../blocks/content.css");
 @import url("../blocks/footer.css");
-
-@font-face {
-  font-family: "inter";
-  src: url("../fonts/inter.css") format("woff2");
-  font-weight: Normal;
-  font-style: normal;
-}
+@import url("../vendor/fonts.css");
