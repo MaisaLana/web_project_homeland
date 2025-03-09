@@ -1,29 +1,12 @@
 .header {
-  max-width: 984px;
-  max-height: 983px;
+  display: flex;
+}
+
+.header__logo {
+  max-width: 254px;
+  min-height: 70px;
+  padding-top: 34px;
   margin: auto;
 }
 
-.header__title {
-  font-size: 96px;
-  text-align: center;
-  font-style: bold;
-  max-width: 720px;
-  max-height: 200px;
-  margin: 90px auto 0;
-}
 
-.header__description {
-  max-width: 720px;
-  max-height: 72px;
-  margin: 32px auto 0;
-  font-size: 30px;
-  text-align: center;
-}
-
-.header__image {
-  max-width: 100%;
-  max-height: 615px;
-  margin-top: 64px;
-  filter: grayscale(100%);
-}

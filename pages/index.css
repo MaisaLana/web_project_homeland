@@ -11,39 +11,40 @@
     min-width: 320px;
   }
 
-  .logo__image {
+  /* >>>>>>>>header<<<<<<< */
+
+  .header__logo {
     max-width: 254px;
     min-height: 66px;
     padding-top: 30px;
   }
-  /* >>>>>>>>header<<<<<<< */
+  /* >>>>>>>>main<<<<<<< */
 
-  .header__title {
+  .content__first_title {
     font-size: 75px;
     max-width: 530px;
     max-height: 158px;
   }
 
-  .header__description {
+  .content__first_description {
     margin: 25px auto 0;
   }
 
-  .header__image {
+  .content__first_image {
     max-width: 100%;
     max-height: 480px;
     margin-top: 30px;
   }
-  /* >>>>>>>>>>content<<<<<<<<<< */
 
-  .content {
+  .content__second {
     max-width: 720px;
     max-height: 490px;
     margin: 90px auto 148px;
   }
-  .content__title {
+  .content__second_title {
     font-size: 45px;
   }
-  .content__quote {
+  .content__second_quote {
     font-size: 24px;
     margin: 50px 0 0;
     max-width: 720px;
@@ -54,7 +55,7 @@
     padding: 0;
   }
 
-  .content__text {
+  .content__second_text {
     max-width: 720px;
     max-height: 182px;
     margin: 32px auto 0;
@@ -70,49 +71,50 @@
   .page {
     max-width: 320px;
   }
-  .logo__image {
+
+  /* header */
+
+  .header__logo {
     max-width: 188px;
     min-height: 52px;
     padding-top: 20px;
   }
 
-  /* header */
+  /* main */
 
-  .header__title {
+  .content__first_title {
     font-size: 40px;
     max-width: 228px;
     max-height: 88px;
     margin: 50px auto 0;
   }
 
-  .header__description {
+  .content__first_description {
     max-width: 720px;
     max-height: 72px;
     margin: 16px auto 0;
     font-size: 16px;
   }
 
-  .header__image {
+  .content__first_image {
     max-height: 200px;
     margin-top: 40px;
   }
 
-  /* >>>>>>>>>>>>>>>>>content<<<<<<<<<<<<<<<<<<<<<< */
-
-  .content {
+  .content__second {
     max-width: 288px;
     max-height: 878px;
     margin: 40px auto 148px;
   }
-  .content__title {
+  .content__second_title {
     font-size: 32px;
   }
-  .content__quote {
+  .content__second_quote {
     margin: 40px 0 0;
     max-width: 288px;
   }
 
-  .content__text {
+  .content__second_text {
     max-width: 288px;
   }
 

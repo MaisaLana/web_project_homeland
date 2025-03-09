@@ -6,14 +6,3 @@
   max-width: 1280px;
   min-width: 768px;
 }
-
-.logo {
-  display: flex;
-}
-
-.logo__image {
-  max-width: 254px;
-  min-height: 70px;
-  padding-top: 34px;
-  margin: auto;
-}
