@@ -7,9 +7,13 @@
   min-width: 768px;
 }
 
+.logo {
+  display: flex;
+}
+
 .logo__image {
   max-width: 254px;
   min-height: 70px;
-  margin: 0px 513px 90px;
-  padding: 34px 0px 0.8px 0px;
+  padding-top: 34px;
+  margin: auto;
 }

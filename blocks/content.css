@@ -1,7 +1,7 @@
 .content {
   max-width: 830px;
   max-height: 482px;
-  margin: 92px 0 0 148px;
+  margin: 92px auto 148px;
 }
 .content__title {
   font-size: 54px;
@@ -14,6 +14,7 @@
 
 .content__quote_description {
   margin: 0;
+  padding: 0;
 }
 .content__quote_author {
   text-align: right;
