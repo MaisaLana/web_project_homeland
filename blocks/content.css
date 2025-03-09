@@ -12,13 +12,14 @@
   max-width: 738px;
 }
 
-.quote {
+.content__quote_description {
   margin: 0;
 }
-.quote__author {
+.content__quote_author {
   text-align: right;
   margin: 10px 0 0;
 }
+
 .content__text {
   max-width: 722px;
   margin: 32px 0 0;
