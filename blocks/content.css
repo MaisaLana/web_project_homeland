@@ -1,13 +1,12 @@
 .content__first {
-  max-width: 984px;
   max-height: 983px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .content__first-title {
   font-size: 96px;
   text-align: center;
-  font-style: bold;
+  font-weight: bold;
   max-width: 720px;
   max-height: 200px;
   margin: 90px auto 0;
@@ -24,8 +23,9 @@
 .content__first-image {
   max-width: 100%;
   max-height: 615px;
-  margin-top: 64px;
+  margin: 64px auto 0;
   filter: grayscale(100%);
+  display: flex;
 }
 
 .content__second {
@@ -58,7 +58,7 @@
   line-height: 26.08px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .content__first-title {
     font-size: 75px;
     max-width: 530px;
@@ -101,7 +101,7 @@
   }
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 544px) {
   .content__first-title {
     font-size: 40px;
     max-width: 228px;
