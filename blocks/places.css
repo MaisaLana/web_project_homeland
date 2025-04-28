@@ -1,5 +1,5 @@
 .places {
-  max-width: 984.00048828125px;
+  max-width: 984px;
   margin: 92px auto 0;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -8,7 +8,6 @@
 }
 
 .places__title {
-  font-family: INTER;
   font-size: 72px;
   color: #ffff;
   width: 460px;
@@ -22,14 +21,13 @@
 }
 
 .places__artist-title {
-  font-family: INTER;
+
   font-size: 12px;
   color: #aaaaaa;
   margin-bottom: 8px;
 }
 
 .places__artist-name {
-  font-family: INTER;
   font-size: 18px;
   color: #ffffff;
   margin: 0;
@@ -60,7 +58,6 @@
   padding: 13px 20px;
   gap: 10px;
   color: #ffffff;
-  font-family: INTER;
   font-size: 18px;
 }
 .places__button:hover {
