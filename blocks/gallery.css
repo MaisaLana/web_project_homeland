@@ -1,6 +1,5 @@
 .gallery {
   max-width: 1184px;
-  max-height: 442px;
   margin: 118px auto 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
@@ -14,7 +13,6 @@
 @media screen and (max-width: 1024px) {
   .gallery {
     max-width: 720px;
-    max-height: 1104px;
     margin: 64px auto 0;
   }
 
@@ -26,7 +24,6 @@
 @media screen and (max-width: 544px) {
   .gallery {
     max-width: 288px;
-    max-height: 1812px;
     gap: 12px;
     margin: 38px auto 0;
     padding-top: 138px;
